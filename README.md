@@ -1,0 +1,1 @@
+# This project is a simple and interactive implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript. The primary goal is to provide a user-friendly gaming experience within a web browser.
